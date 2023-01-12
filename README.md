@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MaheshVerma12
-- 👀 I’m interested in Cybersecurity and full stack web development
+- 👀 I’m interested in Data Science and full stack web development
 - 🌱 I’m currently learning Bachelor's in Computer engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email me at maheshcverma1223@gmail.com or find me on Facebook as Mahesh Verma
