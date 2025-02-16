@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MaheshVerma12
-- 👀 I’m interested in mobile app development using Flutter and Firebase. 
-- 🌱 I’m currently learning Bachelor's in Computer engineering
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in machine learning and natural language processing.
+- 🌱 I’m currently learning deep learning
+- 💞️ I’m looking to collaborate on natural language processing and large language models
 - 📫 Email me at maheshcverma1223@gmail.com or find me on Facebook as Mahesh Verma
 
 <!---
